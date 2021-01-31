@@ -1,0 +1,53 @@
+Pr
+ProGrad Junior
+7:57 PM
+body{
+text-align: center;
+}
+nav{
+display: flex;
+justify-content: center;
+}
+a{
+margin: 20px;
+cursor: pointer;
+text-decoration: none;
+color: black;
+}
+h1{
+font-size: 6em;
+letter-spacing: 10px;
+}
+h2{
+font-size: 4em;
+}
+h3{
+font-size: 2em;
+}
+h4{
+font-size: 2em;
+font-weight: 400;
+}
+section p, img{
+padding: 10px;
+}
+.cartoons{
+color: white;
+padding: 70px;
+}
+#tomandjerry{
+background-color: teal;
+}
+#shinchan{
+background-color: tomato;
+}
+#pokemon{
+background-color: turquoise;
+}
+header{
+background-image: url("http://i1.faceprep.in/cartoon-background.png");
+color: white;
+background-repeat: no-repeat;
+background-size: cover;
+padding: 200px;
+}
